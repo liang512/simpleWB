@@ -1,0 +1,24 @@
+{
+  "name": "mongo_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "express-session": "^1.15.6",
+    "formidable": "^1.2.1",
+    "gm": "^1.23.1",
+    "mongodb": "^3.1.13",
+    "mongoose": "^5.4.11",
+    "nodemailer": "^5.1.1",
+    "svg-captcha": "^1.3.12"
+  }
+}
